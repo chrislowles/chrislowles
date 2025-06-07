@@ -1,9 +1,9 @@
 # Featured Repos
 
-## [desktop](https://github.com/chrislowles/nix)
+## [nix](https://github.com/chrislowles/nix)
 Another NixOS config.
 
-## [laptop](https://github.com/chrislowles/flatpak)
+## [flatpak](https://github.com/chrislowles/flatpak)
 Premade pack of flatpaks.. paaaack
 
 ## [random](https://github.com/chrislowles/random)
