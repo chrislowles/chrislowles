@@ -1,10 +1,10 @@
 # Featured Repos
 
-## [desktop](https://github.com/chrislowles/desktop)
-nixos-based config for the desktop
+## [desktop](https://github.com/chrislowles/nix)
+Another NixOS config.
 
-## [laptop](https://github.com/chrislowles/laptop)
-nixos-based config for the laptop
+## [laptop](https://github.com/chrislowles/flatpak)
+Premade pack of flatpaks.. paaaack
 
 ## [random](https://github.com/chrislowles/random)
 Random snippets that don't serve enough purpose to require a whole repo.
