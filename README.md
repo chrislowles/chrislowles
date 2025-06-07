@@ -1,5 +1,11 @@
 # Featured Repos
 
+## [desktop](https://github.com/chrislowles/desktop)
+nixos-based config for the desktop
+
+## [laptop](https://github.com/chrislowles/laptop)
+nixos-based config for the laptop
+
 ## [random](https://github.com/chrislowles/random)
 Random snippets that don't serve enough purpose to require a whole repo.
 
@@ -8,9 +14,6 @@ Various userscripts, made to varying degrees of quality.
 
 ## [userstyles](https://github.com/chrislowles/userstyles)
 Various userstyles, made to varying degrees of quality.
-
-## [nix](https://github.com/chrislowles/nix)
-*nix scripts, configs for tools to setup various distros quicker.
 
 ## [ubo](https://github.com/chrislowles/ubo)
 Various uBlock Origin/AdGuard/ABP filter lists.
