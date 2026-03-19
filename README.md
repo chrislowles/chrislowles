@@ -12,8 +12,8 @@ Various userscripts, made to varying degrees of quality.
 ## [userstyles](https://github.com/chrislowles/userstyles)
 Various userstyles, made to varying degrees of quality.
 
-## [ubo](https://github.com/chrislowles/ubo)
-Various uBlock Origin/AdGuard/ABP filter lists.
+## [adb](https://github.com/chrislowles/adb)
+Various filter lists.
 
 ## [bucket](https://github.com/chrislowles/bucket)
 Scoop repository for testing manifest syntax, might actually do something with this in the future.
