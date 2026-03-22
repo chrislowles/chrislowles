@@ -6,6 +6,9 @@ A barebones (some may say bog standard) immutable Linux distro using GNOME/GDM a
 ## [wordpress](https://github.com/chrislowles/wordpress)
 the source code to my wordpress blog
 
+## [ap-filters](https://github.com/chrislowles/ap-filters)
+My Mastodon filters.
+
 ## [userscripts](https://github.com/chrislowles/userscripts)
 Various userscripts, made to varying degrees of quality.
 
